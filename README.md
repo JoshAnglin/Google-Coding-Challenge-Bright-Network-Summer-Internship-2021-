@@ -1,3 +1,3 @@
 # Google-Coding-Challenge-Bright-Network-Internship-
 
-Done in Java (using IntelliJ)
+Done using Java (in IntelliJ)
